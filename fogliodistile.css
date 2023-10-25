@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Playfair+Display:wght@400;500&family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+header p {
+    padding: 1%;
+    color:teal;
+    background-color:lemonchiffon;
+    margin-top: 0;
+    border-top-color: rgb(238, 201, 39);
+}
+#logo {
+width: 15%; height: 15%;
+}
+
+#sottologo {
+    color: teal;
+    font-weight: bold;    
+}
+.descrizione {
+color: grey;
+}
+
+#featured  {
+color:chocolate;
+}
+
+div a {
+    color: teal;
+}
+
+hr {
+    height: 0.3px;
+   background-color: teal;
+}
